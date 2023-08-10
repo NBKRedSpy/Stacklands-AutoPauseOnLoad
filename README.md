@@ -10,7 +10,7 @@ Automatically pauses the game when a save is loaded and also when the player cha
 
 # First Visit Note
 When visiting a location for the first time, the game will not allow the user to move the view until the dialog is finished and the first pack is opened.
-This is a cutscene to welcome the player to location and will only occur once.  
+This is part of the base game and not related to this mod.
 
 # Credits
 This mod was created based on jmucchiello's suggestion.
