@@ -22,6 +22,10 @@ Automatically pauses the game when a save is loaded and also when the player cha
 [/tr]
 [/table]
 
+[h1]Credits[/h1]
+
+This mod was created based on jmucchiello's suggestion.
+
 [h1]Source[/h1]
 
 Source is available at https://github.com/NBKRedSpy/Stacklands-AutoPauseOnLoad
