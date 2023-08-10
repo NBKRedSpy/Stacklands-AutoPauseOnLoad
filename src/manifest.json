@@ -1,0 +1,7 @@
+{
+    "name": "Auto Pause On Load",
+    "id": "AutoPauseOnLoad",
+    "version": "1.0.0",
+    "website_url": "https://github.com/NBKRedSpy/Stacklands-AutoPauseOnLoad",
+    "description": "Automatically pauses the game when a save is loaded."
+}
