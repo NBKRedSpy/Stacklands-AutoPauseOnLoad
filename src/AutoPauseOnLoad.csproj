@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
-	<Version>1.1.0</Version>
+	<Version>1.1.1</Version>
 	<GameDir Condition="'$(GameDir)' == ''">C:\Steam\steamapps\common\Stacklands\</GameDir>
 	<ModDeployDir Condition="'$(ModDeployDir)' == ''">%LocalAppData%Low\sokpop\Stacklands\Mods</ModDeployDir>
 

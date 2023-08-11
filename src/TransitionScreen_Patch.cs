@@ -14,7 +14,12 @@ namespace AutoPauseOnLoad
 			{
 				___onTransition = () => { 
 					onTransition();
-					Plugin.PauseGame();
+
+					//Don't pause if the transition's destination is the main menu.
+					if(WorldManager.instance?.CurrentGameState != WorldManager.GameState.InMenu)
+					{
+						Plugin.PauseGame();
+					}
 				};
 			}
 		}
